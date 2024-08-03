@@ -20,9 +20,9 @@ This is a Node.js and Express-based API for user authentication, profile managem
 ## Getting Started
 
 ### Postman Documentation
-```Click here
-https://documenter.getpostman.com/view/17192321/2sA3rwMu4R
-```
+
+- [Documentation](https://documenter.getpostman.com/view/17192321/2sA3rwMu4R)
+- [Live](https://auth-application-uy9m.onrender.com/)
 
 ### Prerequisites
 
