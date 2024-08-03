@@ -31,7 +31,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/chaitanya039/your-repo-name.git
+    git clone https://github.com/chaitanya039/Auth-Application.git
     ```
 
 2. Navigate into the project directory:
@@ -60,6 +60,11 @@ Ensure you have the following installed:
     ```
 
     The server will run on `http://localhost:3000`.
+
+### Postman Documentation
+```Click here
+https://documenter.getpostman.com/view/17192321/2sA3rwMu4R
+```
 
 ## API Endpoints
 
