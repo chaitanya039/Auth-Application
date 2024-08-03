@@ -19,6 +19,11 @@ This is a Node.js and Express-based API for user authentication, profile managem
 
 ## Getting Started
 
+### Postman Documentation
+```Click here
+https://documenter.getpostman.com/view/17192321/2sA3rwMu4R
+```
+
 ### Prerequisites
 
 Ensure you have the following installed:
@@ -60,11 +65,6 @@ Ensure you have the following installed:
     ```
 
     The server will run on `http://localhost:3000`.
-
-### Postman Documentation
-```Click here
-https://documenter.getpostman.com/view/17192321/2sA3rwMu4R
-```
 
 ## API Endpoints
 
